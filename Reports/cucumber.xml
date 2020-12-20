@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="verifying a build proposal from sales tools" name="Navigate to the Lead Page" time="0">
+<skipped><![CDATA[Given navigate to application...............................................undefined
+When User is entering the username and password.............................undefined
+Then navigate to the home page of an application............................undefined
+And Select the sales tools from the menu....................................undefined
+Then Click on the Select Lead...............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
